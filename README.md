@@ -5,8 +5,8 @@
 4) leaving venv `deactivate`
 
 # Libraries
-1) pip install selenium
-2) pip install beatifulsoup4
+1) `pip install selenium`
+2) `pip install beatifulsoup4`
 
 # Run scraper
-1) python scraper.py
+1) `python scraper.py`
